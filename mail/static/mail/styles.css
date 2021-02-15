@@ -1,0 +1,29 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-preview {
+    margin: 2px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 4px;
+    display: flex;
+}
+
+.align-left {
+    text-align:left;
+    width:25%;
+}
+.align-center {
+    text-align:left;
+    width:55%;
+}
+.align-right {
+    text-align:right;
+    width:20%;
+}
+
+.email-body {
+    white-space: pre-wrap;
+}
